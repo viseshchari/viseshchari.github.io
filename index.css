@@ -13,6 +13,7 @@
   order: 99;
   width: 80%;
   padding-left: 200px;
+  background-color: #FFFFEA;
 }
 
 .tabbed-set label {
@@ -42,7 +43,6 @@
 }
 
 p {
-    background-color: #FFFFEA;
     text-align: left;
     padding-left: 200px;
     padding-right: 100px;
