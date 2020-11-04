@@ -11,7 +11,7 @@
 .tabbed-set .tabbed-content {
   display: none;
   order: 99;
-  width: 100%;
+  width: 80%;
 }
 
 .tabbed-set label {
