@@ -40,7 +40,8 @@
 }
 
 p {
-    color: #FFFFFF;
+    background: #FFFFFF;
     text-align: center;
-    padding-left: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
