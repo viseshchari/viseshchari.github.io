@@ -12,14 +12,13 @@
   display: none;
   order: 99;
   width: 60%;
-  margin: 20%;
   padding-left: 200px;
   background-color: #FFFFEA;
 }
 
 .tabbed-set label {
   width: auto;
-  margin: 0 0.5em;
+  margin: 0 20%;
   padding-left: 200px;
   padding: 0.25em;
   font-size: 120%;
