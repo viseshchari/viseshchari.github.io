@@ -11,7 +11,8 @@
 .tabbed-set .tabbed-content {
   display: none;
   order: 99;
-  width: 80%;
+  width: 60%;
+  margin: 20%;
   padding-left: 200px;
   background-color: #FFFFEA;
 }
