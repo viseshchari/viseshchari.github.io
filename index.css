@@ -38,3 +38,9 @@
 .tabbed-set input:nth-child(n+1):checked + label + .tabbed-content {
     display: block;
 }
+
+p {
+    color: #FFFFFF;
+    text-align: center;
+    padding-left: 50px;
+}
