@@ -12,6 +12,7 @@
   display: none;
   order: 99;
   width: 80%;
+  padding-left: 200px
 }
 
 .tabbed-set label {
