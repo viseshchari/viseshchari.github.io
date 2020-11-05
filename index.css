@@ -84,7 +84,7 @@ img[alt$="><"] {
     float: none!important;
 }
 
-main {
+blockquote {
     padding-left: 50px;
     font-family: Helvetica, serif;
     font-size: 30px;
