@@ -60,7 +60,7 @@ p {
 
 li {
     font-family: Verdana, serif;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 li:not(:last-child) {
@@ -87,6 +87,6 @@ img[alt$="><"] {
 blockquote {
     padding-left: 50px;
     font-family: Helvetica, serif;
-    font-size: 30px;
+    font-size: 40px;
     width: 60%;
 }
