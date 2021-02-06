@@ -60,7 +60,7 @@ p {
 
 li {
     font-family: Verdana, serif;
-    font-size: 15px;
+    font-size: 35px;
 }
 
 li:not(:last-child) {
